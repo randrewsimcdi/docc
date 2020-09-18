@@ -129,8 +129,8 @@ export default {
   --color-ui-background: theme('colors.white');
   --color-ui-typo: theme('colors.gray.700');
   --color-ui-sidebar: theme('colors.gray.200');
-  --color-ui-border: theme('colors.gray.300');
-  --color-ui-primary: theme('colors.indigo.600');
+  --color-ui-border: theme('colors.yellow.400');
+  --color-ui-primary: theme('colors.blue.500');
 }
 
 html[lights-out] {

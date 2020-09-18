@@ -3,23 +3,13 @@
     <div class="pt-8 md:pt-16">
       <div class="flex flex-col items-center">
         <div class="flex flex-col items-center mb-2 text-ui-primary">
-          <Logo :width="80" />
-          <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
-            DOCC
-          </h2>
+           <g-image src="../assets/pharos-imc_di-logo.png" />
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
           Great Documentation starts here.
         </h1>
-        <p class="text-xl font-medium text-center">
-          Perfect Lighthouse score out of the box. Easy to set-up. Dark mode included.
-          <br>
-          <strong class="text-ui-primary">Got a minute?</strong>
-        </p>
+      
 
-        <div class="py-4">
-          <code class="block px-4 py-1 select-all bg-ui-border text-ui-typo">gridsome create your-project https://github.com/mrcrmn/docc</code>
-        </div>
 
         <div class="flex justify-center mt-8">
           <g-link
@@ -81,7 +71,6 @@ import { ArrowRightCircleIcon, ZapIcon, CodeIcon, MoonIcon, SearchIcon } from 'v
 
 export default {
   components: {
-    Logo,
     ArrowRightCircleIcon,
     ZapIcon,
     CodeIcon,
@@ -90,8 +79,8 @@ export default {
   },
 
   metaInfo() {
-    const title = 'Great Documentation starts here';
-    const description = 'DOCC is a starter theme with instant search and dark mode for writing great technical documentation. Based on Gridsome!';
+    const title = 'Pharos Documentation';
+    const description = 'Instant search and dark mode for great documentation on Pharos products';
 
     return {
       title: title,
