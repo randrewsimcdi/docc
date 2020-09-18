@@ -6,7 +6,7 @@
            <g-image src="../assets/pharos-imc_di-logo.png" />
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
-          Great Documentation starts here.
+          Our documentation starts here.
         </h1>
       
 
@@ -21,14 +21,12 @@
           </g-link>
         </div>
 
-        <p class="mt-8 text-center">
-          Open Source. MIT License. <span class="border-b border-dashed border-ui-primary text-ui-primary">Make it your own</span>.
-        </p>
+      
 
       </div>
 
       <div class="pt-8 mx-auto mt-8 border-t md:mt-16 md:pt-16 border-top border-ui-border max-w-screen-sm"></div>
-
+<!-- 
       <div class="flex flex-wrap justify-center -mx-4">
         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
           <ZapIcon size="3x" class="mb-6 text-ui-primary" />
@@ -59,7 +57,7 @@
             Working late at night again? Enable dark mode with the click of a button.
           </p>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </Layout>
