@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: randrewsimcdi/docc
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "MarkdownPage"
+    label: "Documentation Page"
+    folder: "content/docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "date"}
+      - {label: "Body", name: "body", widget: "markdown"}

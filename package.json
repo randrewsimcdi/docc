@@ -7,7 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^2.10.60"
   },
   "devDependencies": {
     "@gridsome/plugin-google-analytics": "^0.1.0",
