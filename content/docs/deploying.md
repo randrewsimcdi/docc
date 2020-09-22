@@ -1,11 +1,11 @@
 ---
-description: ''
-sidebar: 'docs'
-prev: '/docs/writing-content/'
-next: '/docs/settings/'
+description: hello world
+sidebar: docs
+prev: /docs/writing-content/
+next: /docs/settings/
+date: 2020-09-22T12:26:17.749Z
 ---
-
-# Deploying
+# Deploying Rich Testing From CMS
 
 Gridsome generates static files when running the `gridsome build` command. By default it outputs to the `dist` directory.
 Since these are simple HTML and JS files you only need a server which hosts these files.
