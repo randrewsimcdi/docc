@@ -5,7 +5,7 @@ prev: /docs/writing-content/
 next: /docs/settings/
 date: 2020-09-22T13:14:29.364Z
 ---
-# Another Test
+# Another Test 2
 
 Gridsome generates static files when running the `gridsome build` command. By default it outputs to the `dist` directory.
 Since these are simple HTML and JS files you only need a server which hosts these files.
