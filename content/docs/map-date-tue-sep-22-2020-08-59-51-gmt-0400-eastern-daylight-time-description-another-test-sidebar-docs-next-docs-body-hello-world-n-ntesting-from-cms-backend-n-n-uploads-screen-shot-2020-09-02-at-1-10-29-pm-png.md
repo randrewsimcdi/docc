@@ -1,7 +1,7 @@
 ---
 description: another test
-sidebar: docs
-next: /docs/
+sidebar: "'docs'"
+next: "'/docs/'"
 date: 2020-09-22T12:59:51.909Z
 ---
 # Hello World 
