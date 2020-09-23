@@ -1,8 +1,9 @@
 ---
-description: 'another test using duplicate'
-sidebar: 'docs'
-prev: '/docs/writing-content/'
-next: '/docs/settings/'
+description: another test using duplicate
+slug: new-slug
+sidebar: docs
+prev: /docs/writing-content/
+next: /docs/settings/
 date: 2020-09-22T13:14:29.364Z
 ---
 # Another Test 2
