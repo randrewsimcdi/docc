@@ -3,16 +3,16 @@
     <div class="container">
 
       <div class="flex items-center justify-between -mx-2 sm:-mx-4">
-        <div class="flex flex-col items-center px-2 mr-auto sm:px-4 sm:flex-row">
-          <g-link
+         <div class="flex flex-col items-center px-2 mr-auto sm:px-4 sm:flex-row">
+          <!--  <g-link
             to="/"
             class="flex items-center text-ui-primary"
             title="Home"
           >
-            <span class="hidden ml-2 text-xl font-black tracking-tighter uppercase sm:block">
+           <span class="hidden ml-2 text-xl font-black tracking-tighter uppercase sm:block">
               {{ meta.siteName }}
-            </span>
-          </g-link>
+            </span> 
+          </g-link> -->
 
           <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:block sm:ml-8">
             <g-link
@@ -21,7 +21,8 @@
               :to="link.path"
               class="block p-1 font-medium nav-link text-ui-typo hover:text-ui-primary"
             >
-              {{ link.title }}
+               <home-icon size="1.5x" class="custom-class"></home-icon>
+ 
             </g-link>
           </div>
         </div>
@@ -81,7 +82,7 @@ query {
 <script>
 import ToggleDarkMode from "@/components/ToggleDarkMode";
 import Logo from '@/components/Logo';
-import { SunIcon, MoonIcon, GlobeIcon, GithubIcon, TwitterIcon } from "vue-feather-icons";
+import { SunIcon, HomeIcon, MoonIcon, GlobeIcon, GithubIcon, TwitterIcon } from "vue-feather-icons";
 
 const Search = () => import(/* webpackChunkName: "search" */ "@/components/Search").catch(error => console.warn(error));
 
@@ -93,6 +94,7 @@ export default {
     SunIcon,
     MoonIcon,
     GlobeIcon,
+    HomeIcon,
     GithubIcon,
     TwitterIcon
   },
