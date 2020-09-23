@@ -10,11 +10,14 @@ collections:
     label: "Documentation Page"
     folder: "content/docs"
     create: true
-    slug: "{{slug}}"
+    slug: "{{name}}"
+        encoding: "ascii"
+        clean_accents: true
+        sanitize_replacement: "-"
     fields:
       - {label: "Description", name: "description", widget: "string",required: false}
       - {label: "Sidebar", name: "sidebar", widget: "string"}
-      - {label: "prev", name: "prev", widget: "string"}
+      - {label: "Prev", name: "prev", widget: "string"}
       - {label: "Next", name: "next", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
