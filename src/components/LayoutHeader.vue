@@ -15,12 +15,17 @@
           </g-link> -->
 
           <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:block sm:ml-8">
-            <g-link
+            <!-- <g-link
               v-for="link in settings.nav.links"
               :key="link.path"
               :to="link.path"
               class="block p-1 font-medium nav-link text-ui-typo hover:text-ui-primary"
-            >
+            > -->
+            <g-link
+            to="/"
+            class="flex items-center text-ui-primary"
+            title="Home"
+          >
                <home-icon size="1.5x" class="custom-class"></home-icon>
  
             </g-link>
