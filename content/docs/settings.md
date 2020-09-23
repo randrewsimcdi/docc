@@ -1,8 +1,9 @@
 ---
-description: ''
-sidebar: 'docs'
-prev: '/docs/deploying/'
-next: '/docs/sidebar/'
+description: ""
+sidebar: docs
+prev: /docs/deploying/
+next: /docs/sidebar/
+date: 2020-09-23T19:31:27.359Z
 ---
 
 # Settings
