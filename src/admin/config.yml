@@ -10,17 +10,16 @@ collections:
     label: "Documentation Page"
     folder: "content/docs"
     create: true
-    slug: "{{description}}"
-        encoding: "ascii"
-        clean_accents: true
-        sanitize_replacement: "-"
+    slug: "{{name}}"
     fields:
       - {label: "Description", name: "description", widget: "string",required: false}
+      - {label: "Slug", name: "slug", widget: "string",required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - {label: "Sidebar", name: "sidebar", widget: "string"}
       - {label: "Prev", name: "prev", widget: "string"}
       - {label: "Next", name: "next", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
+
 
 
       
