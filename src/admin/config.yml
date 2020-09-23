@@ -10,7 +10,7 @@ collections:
     label: "Documentation Page"
     folder: "content/docs"
     create: true
-    slug: "{{name}}"
+    slug: "{{description}}"
         encoding: "ascii"
         clean_accents: true
         sanitize_replacement: "-"
