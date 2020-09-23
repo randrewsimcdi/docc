@@ -1,12 +1,11 @@
 ---
-description: ""
+description: Settings 2 test
 sidebar: docs
 prev: /docs/deploying/
 next: /docs/sidebar/
-date: 2020-09-23T19:31:27.359Z
+date: 2020-09-23T19:31:49.866Z
 ---
-
-# Settings
+# Settings 2
 
 When creating your markdown files, there is some configuration to do, if we want to utilise all features of this starter theme.
 
@@ -59,7 +58,6 @@ description: 'your description'
 At the top of the page, you can see some icons which link to Twitter/GitHub or personal website. These links are also defined in your `gridsome.config.js` like this:
 
 ```js
-
 module.exports = {
   settings: {
     web: process.env.URL_WEB,
