@@ -26,38 +26,48 @@
       </div>
 
       <div class="pt-8 mx-auto mt-8 border-t md:mt-16 md:pt-16 border-top border-ui-border max-w-screen-sm"></div>
-<!-- 
-      <div class="flex flex-wrap justify-center -mx-4">
-        <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
-          <ZapIcon size="3x" class="mb-6 text-ui-primary" />
-          <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Incredibly Fast
-          </h3>
-          <p class="text-lg text-left">
-            Powered by Gridsome. Built on Vue. Outputs static files. It wont't get any faster than this. <span class="border-b border-dashed border-ui-primary text-ui-primary">No seriously</span>.
-          </p>
+
+
+
+      <div class="flex flex-wrap justify-center -mx-3">
+      
+        <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4">
+                   <g-image src="../assets/pharos-crm.png" />
+          <h3 class="font-bold tracking-wide uppercase text-ui-primary">Pharos CRM  </h3>
+           <div class="flex justify-center mt-8">
         </div>
 
-        <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
-          <SearchIcon size="3x" class="mb-6 text-ui-primary" />
-          <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Instant Search
-          </h3>
-          <p class="text-lg text-left">
-            All headlines are indexed. Instant search powered by Fuse.js. Find what you are looking for in the <span class="border-b border-dashed border-ui-primary text-ui-primary">blink of an eye</span>.
-          </p>
+
         </div>
 
-        <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
-          <MoonIcon size="3x" class="mb-6 text-ui-primary" />
-          <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Lights out
-          </h3>
-          <p class="text-lg text-left">
-            Working late at night again? Enable dark mode with the click of a button.
-          </p>
+
+         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4">
+                   <g-image src="../assets/product-fastlane.png" />
+          <h3 class="font-bold tracking-wide uppercase text-ui-primary">Product FastLane  </h3>
+           <div class="flex justify-center mt-8">
         </div>
-      </div> -->
+        </div>
+
+         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4">
+                   <g-image src="../assets/pharos-sales-app.png" />
+          <h3 class="font-bold tracking-wide uppercase text-ui-primary">Pharos Spotlight  </h3>
+           <div class="flex justify-center mt-8">
+        </div>
+        </div>
+
+         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4">
+                   <g-image src="../assets/pharos-web.png" />
+          <h3 class="font-bold tracking-wide uppercase text-ui-primary">Pharos Web  </h3>
+           <div class="flex justify-center mt-8">
+        </div>
+        </div>
+
+
+
+  
+
+
+      </div> 
 
     </div>
   </Layout>

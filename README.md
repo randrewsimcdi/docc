@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://github.com/mrcrmn/docc/raw/master/static/logo.jpg" alt="Docc Logo" width="450">
+    <img src="favicon.jpg" alt="Docc Logo" width="450">
 </p>
 
-A starter documentation theme for [Gridsome](https://gridsome.org/).
+Pharos documentation built with a starter documentation theme for [Gridsome](https://gridsome.org/).
 
 ## Installation
 
