@@ -34,10 +34,20 @@ module.exports = {
             ]
           },
           {
-            title: 'Configuration',
+            title: 'Rich Test',
             items: [
               '/docs/settings/',
               '/docs/sidebar/',
+              '/docs/url-slug/',
+            ]
+          },
+          {
+            title: 'Pharos Web',
+            items: [
+              '/docs/settings/',
+              '/docs/sidebar/',
+              '/docs/url-slug/',
+              '/docs/hello-editorial-workflow/',
             ]
           }
         ]

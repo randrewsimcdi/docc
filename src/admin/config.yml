@@ -1,22 +1,27 @@
 backend:
   name: github
   repo: randrewsimcdi/docc
+  publish_mode: editorial_workflow
+
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
 
+
 collections:
-  - name: "MarkdownPage"
-    label: "Documentation Page"
+  - name: "documentation"
+    label: "Documentation Pages"
+    label_singular: "Documentation Page" # Used in the UI, ie: "New Post"
+    description: >
+      This will create a single documentation page. 
     folder: "content/docs"
     create: true
-    slug: '{{slug}}-{{year}}'
     fields:
-      - {label: "Description", name: "description", widget: "string",required: false}
-      - {label: "Slug", name: "slug", widget: "string",required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "URL", name: "title", widget: "string",required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A URL can have no spaces or special characters']}
       - {label: "Sidebar", name: "sidebar", widget: "string"}
-      - {label: "Prev", name: "prev", widget: "string"}
-      - {label: "Next", name: "next", widget: "string"}
+      - {label: "Prev", name: "prev", widget: "string", required: false}
+      - {label: "Next", name: "next", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
 

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="favicon.jpg" alt="Docc Logo" width="450">
+    <img src="/favicon.jpg" alt="Docc Logo" width="450">
 </p>
 
 Pharos documentation built with a starter documentation theme for [Gridsome](https://gridsome.org/).
