@@ -29,6 +29,7 @@ module.exports = {
             items: [
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
+              '/docs/custom-url-test-rebuild/',
             ]
           },
  /*          {
