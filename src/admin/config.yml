@@ -9,7 +9,7 @@ public_folder: "/uploads"
 
 collections:
   - name: "documentation"
-    identifier_field: url
+    identifier_field: "url"
     label: "Documentation Pages"
     label_singular: "Documentation Page" # Used in the UI, ie: "New Post"
     description: >
