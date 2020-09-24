@@ -1,13 +1,12 @@
 ---
-description: Settings test 4
-slug: setting-test-slug
-title: hello-world-rich
-sidebar: docs
-prev: /docs/deploying/
-next: /docs/sidebar/
-date: 2020-09-23T19:58:47.230Z
+description: Settings test 7
+slug: setting-7
+sidebar: "'docs'"
+prev: "'/docs/deploying/'"
+next: "'/docs/sidebar/'"
+date: 2020-09-24T00:12:13.098Z
 ---
-# Settings4
+# Settings5
 
 When creating your markdown files, there is some configuration to do, if we want to utilise all features of this starter theme.
 
