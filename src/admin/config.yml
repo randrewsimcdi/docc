@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: randrewsimcdi/docc
-  publish_mode: editorial_workflow
 
 
 media_folder: "static/uploads"
@@ -10,6 +9,7 @@ public_folder: "/uploads"
 
 collections:
   - name: "documentation"
+    identifier_field: url
     label: "Documentation Pages"
     label_singular: "Documentation Page" # Used in the UI, ie: "New Post"
     description: >
@@ -17,8 +17,9 @@ collections:
     folder: "content/docs"
     create: true
     fields:
+      - {label: "Title", name: "title", widget: "string",}
       - {label: "Description", name: "description", widget: "string", required: false}
-      - {label: "URL", name: "title", widget: "string",required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A URL can have no spaces or special characters']}
+      - {label: "URL", name: "url", widget: "string",required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A URL can have no spaces or special characters']}
       - {label: "Sidebar", name: "sidebar", widget: "string"}
       - {label: "Prev", name: "prev", widget: "string", required: false}
       - {label: "Next", name: "next", widget: "string", required: false}
