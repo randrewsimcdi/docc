@@ -25,23 +25,13 @@ module.exports = {
         name: 'docs',
         sections: [
           {
-            title: 'Getting Started',
+            title: 'Pharos CRM',
             items: [
-              '/docs/',
-              '/docs/installation/',
-              '/docs/writing-content/',
-              '/docs/deploying/',
+              '/docs/crm-creating-users/',
+              '/docs/crm-change-password/',
             ]
           },
-          {
-            title: 'Rich Test',
-            items: [
-              '/docs/settings/',
-              '/docs/sidebar/',
-              '/docs/url-slug/',
-            ]
-          },
-          {
+ /*          {
             title: 'Pharos Web',
             items: [
               '/docs/settings/',
@@ -49,7 +39,7 @@ module.exports = {
               '/docs/url-slug/',
               '/docs/hello-editorial-workflow/',
             ]
-          }
+          } */
         ]
       }
     ]
