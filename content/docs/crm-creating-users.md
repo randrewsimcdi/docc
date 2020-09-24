@@ -1,8 +1,9 @@
 ---
-description: "Pharos CRM: Creating Users"
 title: crm-creating-users
+description: "Pharos CRM: Creating Users"
+url: crm-creating-users
 sidebar: docs
-next: /docs/crm-change-password
+next: /docs/crm-change-password/
 date: 2020-09-24T12:10:53.448Z
 ---
 # Pharos CRM: Creating Users
