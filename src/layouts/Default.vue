@@ -156,7 +156,7 @@ h1,
 h2,
 h3,
 h4 {
-  @apply leading-snug font-black mb-4 text-ui-typo;
+  @apply leading-snug font-medium mb-4 text-ui-typo;
 
   &:hover {
     a::before {
@@ -167,7 +167,7 @@ h4 {
   a {
     &::before {
       content: "#";
-      margin-left: -1em;
+      margin-left: -.4em;
       padding-right: 1em;
       @apply text-ui-primary absolute opacity-0 float-left;
     }
@@ -175,7 +175,7 @@ h4 {
 }
 
 h1 {
-  @apply text-4xl;
+  @apply text-3xl;
 }
 
 h2 {
@@ -202,10 +202,7 @@ blockquote {
 }
 
 .content {
-  a {
-    @apply text-ui-primary underline;
-  }
-
+  
   h1, h2, h3, h4, h5, h6 {
     @apply -mt-12 pt-20;
   }
@@ -216,10 +213,7 @@ blockquote {
     @apply border-none -mt-20;
   }
 
-  h2,
-  h3 {
-    @apply border-b border-ui-border pb-1 mb-3;
-  }
+
 
   ul {
     @apply list-disc;
