@@ -30,7 +30,6 @@ module.exports = {
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
               '/docs/lance-test-article',
-              '/docs/custom-url-test-rebuild',
             ]
           },
  /*          {
