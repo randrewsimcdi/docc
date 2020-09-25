@@ -1,5 +1,5 @@
 ---
-title: crm-creating-users
+title: "Pharos CRM: Creating Users"
 description: "Pharos CRM: Creating Users"
 url: crm-creating-users
 sidebar: docs
