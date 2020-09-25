@@ -1,7 +1,10 @@
 ---
-description: ''
-sidebar: 'docs'
-next: '/docs/installation/'
+title: Sample Markdown
+description: description
+url: index
+sidebar: docs
+next: /docs/installation/
+date: 2020-09-25T12:47:27.081Z
 ---
 
 # Introduction
