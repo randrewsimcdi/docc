@@ -2,7 +2,7 @@
 title: Lance Test Article
 description: "Description field "
 url: lance-test-article
-sidebar: Test sidebar
+sidebar: docs
 date: 2020-09-24T18:45:18.748Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a nisl vel justo auctor ultrices. Nulla interdum, nisl vulputate malesuada vulputate, ipsum urna tempor nisl, sit amet fermentum quam lorem non odio. Duis malesuada, lacus non pellentesque congue, magna magna cursus magna, a maximus lectus leo eu mi. In ultricies sem sit amet elit egestas fermentum. Praesent in purus ex. Suspendisse fringilla faucibus sem sed efficitur. Suspendisse sed neque nec metus lobortis facilisis at nec sem. Nullam fringilla finibus tempus. Maecenas vel tellus posuere, suscipit leo sit amet, pharetra turpis. Phasellus et libero in sem accumsan egestas sed id tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus quis orci ac magna gravida viverra. Nunc ac ex fringilla, dapibus metus et, vestibulum nunc.
