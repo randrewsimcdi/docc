@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/pharos-imc_di-logo.png" alt="Logo" width="450">
+    <img src="https://static1.squarespace.com/static/5beed5803917ee24e4b6f7ea/t/5e7cffcb81db4a2157812b32/1592509740926/?format=1500w" alt="Logo" width="450">
 </p>
 
 Pharos resource center built with a starter documentation theme for [Gridsome](https://gridsome.org/).
