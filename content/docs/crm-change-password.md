@@ -1,6 +1,7 @@
 ---
+title: "Pharos CRM: Changing Your Password"
 description: "Pharos CRM: Changing Your Password"
-title: crm-change-password
+url: crm-change-password
 sidebar: docs
 prev: /docs/crm-creating-users
 date: 2020-09-24T12:37:00.977Z
