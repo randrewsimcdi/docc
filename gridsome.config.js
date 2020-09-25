@@ -29,7 +29,6 @@ module.exports = {
             items: [
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
-              '/docs/index'
             ]
           },
  /*          {
