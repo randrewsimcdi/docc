@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/src/favicon.jpg" alt="Logo" width="450">
+    <img src="../assets/pharos-imc_di-logo.png" alt="Logo" width="450">
 </p>
 
 Pharos resource center built with a starter documentation theme for [Gridsome](https://gridsome.org/).
@@ -18,11 +18,9 @@ Documentation can be found [here](https://docc-theme.netlify.com/).
 
 ## Managing Content 
 
-Currently, using [Netlify CMS] (https://www.netlifycms.org/)
-
-Log in by getting access to the GitHub repo then going to OurDomainName.com/admin 
-
-Publishing a documentation article requires the following fields...see below as reference 
+- Currently, using [Netlify CMS] (https://www.netlifycms.org/)
+- Log in by getting access to the GitHub repo then going to OurDomainName.com/admin 
+- Publishing a documentation article requires the following fields...see below as reference 
 
 ```
 title: "Creating Users"
@@ -46,12 +44,12 @@ Note: the sidebar field must contain `docs`
 
 Once you click publish, the article gets pushed to Github, then deployed automatically by Netlify. 
 
-## Add to Menu Bar
+## Add Article to Menu Bar
 
-Edit the file `gridsome.config.js` 
-Add your article url to the items 
-Save file and commit to Github with the messsage `menu update: article name, article name, article name`
-Wait 1-3 minutes for site to be live
+- Edit the file `gridsome.config.js` 
+- Add your article url to the items 
+- Save file and commit to Github with the messsage `menu update: article name, article name, article name`
+- Wait 1-3 minutes for site to be live
 
 ```js
 // gridsome.config.js
