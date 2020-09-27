@@ -25,7 +25,7 @@ module.exports = {
         name: 'docscrm',
         sections: [
           {
-            title: 'Getting Started with Pharos CRM',
+            title: 'Pharos CRM',
             items: [
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
@@ -33,7 +33,7 @@ module.exports = {
             ]
           },
           {
-            title: 'Getting Started with PFL',
+            title: 'Product FastLane',
             items: [
               '/docs/pfl/',
               '/docs/pfl-two/',
