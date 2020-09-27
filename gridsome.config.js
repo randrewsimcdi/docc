@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Pharos Docs',
+  siteName: 'Pharos Resource Center',
   icon: {
     favicon: './src/assets/favicon.png',
     touchicon: './src/assets/favicon.png'
@@ -22,28 +22,28 @@ module.exports = {
     },
     sidebar: [
       {
-        name: 'docs',
+        name: 'docscrm',
         sections: [
           {
-            title: 'Pharos CRM',
+            title: 'Getting Started with Pharos CRM',
             items: [
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
+              '/docs/',
             ]
           },
- /*          {
-            title: 'Pharos Web',
+          {
+            title: 'Getting Started with PFL',
             items: [
-              '/docs/settings/',
-              '/docs/sidebar/',
-              '/docs/url-slug/',
-              '/docs/hello-editorial-workflow/',
+              '/docs/pfl/',
+              '/docs/pfl-two/',
             ]
-          } */
+          }
         ]
       }
     ]
   },
+  
   plugins: [
     {
       use: '@gridsome/source-filesystem',

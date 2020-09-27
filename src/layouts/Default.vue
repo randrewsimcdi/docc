@@ -163,11 +163,10 @@ h4 {
       @apply opacity-100;
     }
   }
-
-  a {
+ a {
     &::before {
       content: "#";
-      margin-left: -.4em;
+      margin-left: -1em;
       padding-right: 1em;
       @apply text-ui-primary absolute opacity-0 float-left;
     }

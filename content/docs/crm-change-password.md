@@ -2,7 +2,7 @@
 title: Changing Your Password
 description: "Pharos CRM: Changing Your Password"
 url: crm-change-password
-sidebar: docs
+sidebar: docscrm
 prev: /docs/crm-creating-users
 date: 2020-09-24T12:37:00.977Z
 ---

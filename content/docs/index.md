@@ -1,13 +1,22 @@
 ---
-title: Sample Markdown
-description: description
+title: Welcome 
+description: Welcome page and sample markdown.
 url: index
 sidebar: docs
 next: /docs/installation/
 date: 2020-09-25T12:47:27.081Z
 ---
 
-# Introduction
+
+# Welcome, what software are you here for? 
+
+## [Pharos CRM](/docs/crm)
+
+
+## [Product FastLane](/docs/pfl)
+
+  
+<!-- # Introduction
 
 Docc is a starter theme for [Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
 
@@ -57,4 +66,4 @@ Don't like how something was designed or implemented? Just change the code and *
 
 ### Contribute
 
-If you find any spelling mistakes or have improvements to offer, I am open to anyone who has ideas and wants to contribute to this starter theme.
+If you find any spelling mistakes or have improvements to offer, I am open to anyone who has ideas and wants to contribute to this starter theme. -->
