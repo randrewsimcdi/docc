@@ -168,7 +168,7 @@ h4 {
       content: "#";
       margin-left: -1em;
       padding-right: 1em;
-      @apply text-ui-primary absolute opacity-0 float-left;
+      @apply text-ui-primary opacity-0 float-right;
     }
   }
 }
