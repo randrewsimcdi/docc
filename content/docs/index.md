@@ -15,6 +15,9 @@ date: 2020-09-25T12:47:27.081Z
 [<img alt="Product FastLane" src="/uploads/product-fastlane.png">](/docs/pfl)
 ## [Product FastLane](/docs/pfl)
 
+[<img alt="Product FastLane" src="/uploads/product-fastlane.png">](/docs/pfl)
+## [Spotlight](/docs/pfl)
+
 <!-- # Introduction
 
 Docc is a starter theme for \\[Gridsome](https://gridsome.org/) which is a static site generator powered by Vue. It allows you to quickly start writing your technical documentation for any kind of project.
