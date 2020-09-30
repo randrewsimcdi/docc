@@ -25,7 +25,7 @@ module.exports = {
         name: 'docs',
         sections: [
           {
-            title: 'Pharos CRM',
+            title: 'CRM',
             items: [
               '/docs/crm-creating-users/',
               '/docs/crm-change-password/',
@@ -36,7 +36,12 @@ module.exports = {
             title: 'Product FastLane',
             items: [
               '/docs/pfl/',
-              '/docs/pfl-two/',
+            ]
+          },
+          {
+            title: 'Spotlight',
+            items: [
+              '/docs/spotlight-reset-content/',
             ]
           }
         ]

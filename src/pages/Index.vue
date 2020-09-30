@@ -56,17 +56,17 @@
         <div
           class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4"
         >
-         <!--  <g-link
-            to="/docs/"
+         <g-link
+            to="/docs/spotlight-reset-content/"
             class="ml-auto font-bold leading-none text-white transition-all duration-200 ease-out transform hover:shadow-xl hover:-translate-y-1"
-          > -->
+          >
             <g-image src="../assets/pharos-sales-app.png" />
             <h3 class="font-bold tracking-wide uppercase text-ui-primary">
               Pharos Spotlight
             </h3>
             <div class="flex justify-center mt-8"></div>
-<!--           </g-link>
- -->        </div>
+     </g-link>
+  </div>
 
         <div
           class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/4"
