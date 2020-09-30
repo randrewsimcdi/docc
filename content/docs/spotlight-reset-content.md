@@ -8,6 +8,16 @@ date: 2020-09-30T12:43:37.815Z
 ---
 # Pharos Spotlight: Reset Content
 
-## 1. In the Options tab, tap on Reset Content (under Data Statistics).
-## 2. Tap on Product Data, Product Business Rules, Customer Data, Customer Business Rules, Customer Order History, and Other Business Rules Then tap on Reset & Log Out (on the top right hand corner) and follow the on-screen directions.
-## 3. Then close the app completely as well as any other open apps. Shut down the iPad completely and turn it back on, login and accept updates.
+## 1. Once you are logged into the app, notice "... more" at the bottom right.
+
+![More screen...Option](/uploads/reset-content-1.jpg)
+
+## 2. In the Options tab, under Data Statistics, tap on Reset Content.
+
+![Reset Content screen](/uploads/reset-content-2.jpg)
+
+## 3. Tap on Product Data, Product Business Rules, Customer Data, Customer Business Rules, Customer Order History, and Other Business Rules Then tap on Reset & Log Out (on the top right hand corner) and follow the on-screen directions.
+
+![Reset and Log Out screen](/uploads/reset-content-3.jpg)
+
+## 4. Then close the app completely as well as any other open apps. Shut down the iPad completely and turn it back on, login and accept updates.
