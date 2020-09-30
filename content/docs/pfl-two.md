@@ -2,7 +2,7 @@
 title: PFL 2
 description: "Product Fastlane: 2"
 url: pfl-two
-sidebar: docscrm
+sidebar: docs
 prev: 
 date: 2020-09-24T12:37:00.977Z
 ---

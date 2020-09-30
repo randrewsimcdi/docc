@@ -2,7 +2,7 @@
 title: Getting Started
 description: "Pharos CRM: Getting Started"
 url: crm
-sidebar: docscrm
+sidebar: docs
 prev: /docs/crm-creating-users
 date: 2020-09-24T12:37:00.977Z
 ---

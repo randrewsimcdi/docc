@@ -22,7 +22,7 @@ module.exports = {
     },
     sidebar: [
       {
-        name: 'docscrm',
+        name: 'docs',
         sections: [
           {
             title: 'Pharos CRM',

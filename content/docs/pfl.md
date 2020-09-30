@@ -2,7 +2,7 @@
 title: Getting Started
 description: "Product Fastlane: Getting Started"
 url: pfl
-sidebar: docscrm
+sidebar: docs
 prev: 
 date: 2020-09-24T12:37:00.977Z
 ---
