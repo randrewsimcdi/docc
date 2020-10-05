@@ -167,7 +167,7 @@ h4 {
     &::before {
       content: "#";
       margin-left: -1em;
-      padding-right: 1em;
+      padding-right: .5em;
       @apply text-ui-primary opacity-0 float-right;
     }
   }
