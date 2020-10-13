@@ -15,7 +15,7 @@ date: 2020-10-13T13:20:05.840Z
 
 ## Step 2: Decide whether you will be accepting credit card payments or not.
 
-\-[HERE](https://docs.google.com/document/d/1uFM7KEBfKlcDj-58YT2JcrJajKVQkdyxYWvdVrqV2Ug/edit) is a link to the complete list of payment gateway providers we currently support
+[Here](docs/pci-faqs) is a link to the complete list of payment gateway providers we currently support
 
 ## Step 3: Will you receive orders manually or automatically?
 
@@ -27,9 +27,9 @@ date: 2020-10-13T13:20:05.840Z
 
 2. Login to your Pharos CRM portal to review, download, and print orders. Downloaded order files can be imported into an ERP or accounting system (PDF or Excel formats).
 
- [Pharos Sample Order File (PDF)](https://docs.google.com/document/d/1MTIkqsKfLsHfIlmuVSSyxuTMLvROm5T5UdWxkE6SjKY/edit)
+ [Pharos Sample Order File (PDF)](uploads/Pharos_Vendor_Sample_Order.pdf)
 
-[Pharos Sample Order File (Excel)](https://docs.google.com/spreadsheets/d/1KlJzYJheLsWyWZ7mSP4hpXvScnbyLs9U/edit?dls=true)
+[Pharos Sample Order File (Excel)](uploads/Pharos_Sample_Order_File_2.5.20.xlsx)
 
 ### Automated Order Receivable
 
