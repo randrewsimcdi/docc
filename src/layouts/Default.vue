@@ -212,6 +212,28 @@ blockquote {
     @apply border-none -mt-20;
   }
 
+a {
+    color: inherit;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+p a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid #4299e1;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+p a:hover, a:active {
+  background-color: #4299e1;
+  color: white;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
 
 
   ul {
