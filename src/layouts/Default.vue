@@ -219,8 +219,8 @@ a {
 }
 
 p a:link, a:visited {
-  background-color: white;
-  color: black;
+  background-color: ui-background;
+  color: ui-typo;
   border: 2px solid #4299e1;
   padding: 5px 10px;
   border-radius: 5px;
