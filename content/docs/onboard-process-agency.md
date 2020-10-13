@@ -71,7 +71,7 @@ date: 2020-10-13T13:20:05.840Z
 
 1. Click on your **Company Name** in the top righthand corner and navigate to **Settings > General.**
 
-![CRM, dropdown, red box around settings](/uploads/onboardagency_08.png)
+![CRM, dropdown, red box around settings](/uploads/onboardagency_008.png)
 
 2. Click on **"Configure Credit Card Tokenization"**
 
