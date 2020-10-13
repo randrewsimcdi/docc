@@ -3,7 +3,7 @@ title: Onboarding Process for Agency Vendors
 description: Onboarding documentation to be sent to vendors that are being
   onboarded onto Pharos Suite
 url: onboard-process-agency
-sidebar: docs
+sidebar: 
 date: 2020-10-13T13:20:05.840Z
 ---
 # Onboarding Process for Agency Vendors
