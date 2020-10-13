@@ -15,7 +15,7 @@ date: 2020-10-13T13:20:05.840Z
 
 ## Step 2: Decide whether you will be accepting credit card payments or not.
 
-[Here](/docs/pci-faqs/#pharos-currently-supports-57-payment-gateways) is a link to the complete list of payment gateway providers we currently support
+A complete list of payment gateway providers that we currently support, can be found [here](/docs/pci-faqs/#pharos-currently-supports-57-payment-gateways)
 
 ## Step 3: Will you receive orders manually or automatically?
 
@@ -27,7 +27,7 @@ date: 2020-10-13T13:20:05.840Z
 
 2. Login to your Pharos CRM portal to review, download, and print orders. Downloaded order files can be imported into an ERP or accounting system (PDF or Excel formats).
 
- [Pharos Sample Order File (PDF)](/uploads/Pharos_Vendor_Sample_Order.pdf)
+[Pharos Sample Order File (PDF)](/uploads/Pharos_Vendor_Sample_Order.pdf)
 
 [Pharos Sample Order File (Excel)](/uploads/Pharos_Sample_Order_File_2.5.20.xlsx)
 
@@ -51,7 +51,9 @@ date: 2020-10-13T13:20:05.840Z
 
 ![CRM, My Profile, Edit Profile in red box](/uploads/onboardagency_003.png)
 
-4. After making any other desired changes to your profile, click the "**Save**" button.![CRM, My Profile, Save in red box](/uploads/onboardagency_004.png)
+4. After making any other desired changes to your profile, click the "**Save**" button.
+
+![CRM, My Profile, Save in red box](/uploads/onboardagency_004.png)
 
 * **Update your password:** In the user dropdown, navigate to "**My Profile**" and over to the "**Change Password**" tab. After confirming your new password, select the "**Save**" button.
 
