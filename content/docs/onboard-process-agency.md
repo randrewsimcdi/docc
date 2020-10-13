@@ -15,7 +15,7 @@ date: 2020-10-13T13:20:05.840Z
 
 ## Step 2: Decide whether you will be accepting credit card payments or not.
 
-[Here](docs/pci-faqs) is a link to the complete list of payment gateway providers we currently support
+[Here](/docs/pci-faqs/#pharos-currently-supports-57-payment-gateways) is a link to the complete list of payment gateway providers we currently support
 
 ## Step 3: Will you receive orders manually or automatically?
 
