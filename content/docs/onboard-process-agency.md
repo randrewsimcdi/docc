@@ -45,7 +45,7 @@ date: 2020-10-13T13:20:05.840Z
 
 * **Update your username and email address:**
 
-1. Login to [app.pharoscrm.com/sign](app.pharoscrm.com/sign) in with your temporary credentials.
+1. Login to [app.pharoscrm.com](app.pharoscrm.com) in with your temporary credentials.
 2. Click on **Company Name** (user dropdown) in the top righthand corner of dashboard and navigate to "**My Profile**"
 3. Select "**Edit Profile**" to update your username and email address - this must be a valid email address so it can be used to reset your password in the future.
 
