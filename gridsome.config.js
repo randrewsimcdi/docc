@@ -44,7 +44,19 @@ module.exports = {
             ]
           }
         ]
-      }
+      },
+      {
+        name: 'vendor',
+        sections: [
+          {
+            title: 'Getting Started',
+            items: [
+              '/docs/onboard-process-agency/',
+              'https://docs.google.com/document/d/1JynsyNcDOZ-Z32QensRsS4p_nYrFv7d4oUHUe44e2Zk/edit',
+            ]
+          }
+        ]
+      },
     ]
   },
   
