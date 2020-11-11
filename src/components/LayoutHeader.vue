@@ -32,11 +32,11 @@
           </div>
         </div>
 
-        <div class="w-full px-2 sm:px-4 max-w-screen-xs">
+     <!--    <div class="w-full px-2 sm:px-4 max-w-screen-xs">
           <ClientOnly>
             <Search />
           </ClientOnly>
-        </div>
+        </div> -->
 
         <div class="flex items-center justify-end px-2 sm:px-4">
 
