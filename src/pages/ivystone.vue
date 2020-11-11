@@ -16,7 +16,7 @@
   </div>
 
      <div class="w-full text-center items-center lg:justify-between flex flex-row flex-wrap sm:pt-6 ">
-            <a href="/ivystone"><button class="mr-6 bg-ui-primary hover:bg-blue-400 text-white font-bold py-2 my-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">Agency Name Onboarding Guide</button></a>
+            <a href="/ivystone"><button class="mr-6 bg-ui-primary hover:bg-blue-400 text-white font-bold py-2 my-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">Onboarding Guide</button></a>
             <a href="https://drive.google.com/drive/folders/1LVqTNcMd7H8FBkbrzg5oXH-EB6DtCarv?usp=sharing"><button class="mr-6 bg-ui-primary hover:bg-blue-400 text-white font-bold py-2 my-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">Payment Gateways</button></a>
             <a href="https://drive.google.com/drive/folders/1wk-HFh04dJqEumfSVlrG18dHEtc7nBdF?usp=sharing"><button class="mr-6 bg-ui-primary hover:bg-blue-400 text-white font-bold py-2 my-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">Settings </button></a>
             <a href="https://drive.google.com/drive/folders/1-HMF_qJyVKWppfSFa1dPR9dzMI6Fakdu?usp=sharing"><button class="mr-6 bg-ui-primary hover:bg-blue-400 text-white font-bold py-2 my-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">Reports </button></a>
