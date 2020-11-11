@@ -26,7 +26,7 @@
       </div>
 
 <div class="flex flex-wrap items-center">
-  <iframe class="w-full mt-6" src="https://drive.google.com/file/d/1V3BE_nYEhMdt4mZM0HlXt1XfiSNjU5Ho/preview" height="1080"></iframe>
+  <iframe class="w-full mt-6" src="https://drive.google.com/embeddedfolderview?id=1-6RZSX8tS8d98EdQlXRqJsxpCmja5Int#list" height="1080"></iframe>
 </div>
   
   </Layout>
