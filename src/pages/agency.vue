@@ -20,4 +20,4 @@ export default {
     title: 'Agency Custom Page'
   }
 }
-</script>
+</script> 
