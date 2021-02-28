@@ -2,7 +2,7 @@
    <div
       class="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between"
     >
-      <a href="/cma"
+      <a href="/simblist"
         ><g-image
           src="~/simblistlogo.png"
       /></a>
